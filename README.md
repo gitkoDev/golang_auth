@@ -28,6 +28,14 @@ JWT Golang Authentication service built with `Clean Architecure` and `Dependency
 }
 ```
 
+## Running the app
+
+```bash
+# start the app
+make run
+```
+
+
 ## Tools used
 
 - `Logging` &nbsp; **=>**  &nbsp; [Logrus](https://github.com/sirupsen/logrus)
